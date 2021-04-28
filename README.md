@@ -1,3 +1,1 @@
-# WebFace
-
-Universal (sometime) web interface for same like universal framework
+Веб интерфейс для работы с Testrail
