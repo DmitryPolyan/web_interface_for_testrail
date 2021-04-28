@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+
+{% block content%}
+
+<nav class="navbar navbar-expand-sm bg-light">
+    <ul class="navbar-nav">
+      <li class="nav-item"><a href="{{ url_for('index') }}">На главную страницу</a></li>
+        <li class="nav-item"><a href="{{ url_for('agents_report') }}" style="margin-left: 20px">Запустить тесты</a></li>
+        <li class="nav-item"><a href="{{ url_for('test_fastapi') }}" style="margin-left: 20px">Тест связи с FastApi</a></li>
+    </ul>
+</nav>
+<h5>Список доступных плагинов: </h5>
+{% if plugins %}
+
+<ul class="list-group" id="plugin_checkbox">
+    {% for plugin in plugins.keys() %}
+    {% if plugin in active_plugins%}
+    <li class="list-group-item" >
+        {{ plugin }} <input class="chkbox" type="checkbox" name={{plugin}} checked data-toggle="toggle">
+        {{ plugins[plugin] }}
+        <input type="button" data-toggle="modal" data-target="#pluginsModal" value="Options" id={{plugin}}>
+    </li>
+    {% else %}
+    <li class="list-group-item">
+        {{ plugin }} <input class="chkbox" type="checkbox" name={{plugin}} data-toggle="toggle">
+        {{ plugins[plugin] }}
+        <input type="button" data-toggle="modal" data-target="#pluginsModal" value="Options" id={{plugin}}>
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
+{% else %}
+<p>Плагины не обнаружены</p>
+
+{% endif %}
+
+<!-- Модальное окно -->
+<div class="modal fade" id="pluginsModal" tabindex="-1" role="dialog" aria-labelledby="pluginsModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title edit-header" id="pluginsModalLabel"></h4>
+      </div>
+      <div class="modal-body edit-content">
+          ...
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-warning">Default settings</button>
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary" >Сохранить</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+{% endblock %}

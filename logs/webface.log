@@ -1,0 +1,861 @@
+2021-03-18 14:04:43,525 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:31]
+2021-03-18 14:05:00,001 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:38]
+2021-03-18 14:26:09,321 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:31]
+2021-03-18 14:27:00,008 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:38]
+2021-03-18 14:27:00,014 ERROR: Ошибка обновления БД [in C:\repository\ROS\webFace\app\__init__.py:43]
+2021-03-18 14:32:31,899 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:31]
+2021-03-18 14:33:00,008 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:38]
+2021-03-18 14:33:00,012 ERROR: Ошибка обновления БД [in C:\repository\ROS\webFace\app\__init__.py:43]
+2021-03-18 14:34:04,607 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:31]
+2021-03-18 14:34:17,820 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:31]
+2021-03-18 14:35:00,013 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:38]
+2021-03-18 14:35:00,017 ERROR: Ошибка обновления БД [in C:\repository\ROS\webFace\app\__init__.py:43]
+2021-03-18 14:35:26,959 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:31]
+2021-03-18 14:36:00,006 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:38]
+2021-03-18 14:37:28,137 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:31]
+2021-03-18 14:37:43,970 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:31]
+2021-03-18 14:38:00,001 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:38]
+2021-03-18 14:39:32,107 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:31]
+2021-03-18 14:40:00,015 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:38]
+2021-03-18 14:40:00,020 INFO: База данных обновлена [in C:\repository\ROS\webFace\app\__init__.py:46]
+2021-03-18 14:55:53,314 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:31]
+2021-03-18 14:56:00,007 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:38]
+2021-03-18 14:56:40,853 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:31]
+2021-03-18 14:57:00,004 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:38]
+2021-03-18 15:01:52,889 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:31]
+2021-03-18 15:02:00,001 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:38]
+2021-03-18 15:02:00,050 ERROR: Ошибка обновления БД [in C:\repository\ROS\webFace\app\__init__.py:44]
+2021-03-18 15:09:41,609 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:31]
+2021-03-18 15:09:51,677 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:31]
+2021-03-18 15:10:00,013 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:38]
+2021-03-18 15:10:00,062 ERROR: Ошибка обновления БД [in C:\repository\ROS\webFace\app\__init__.py:44]
+2021-03-19 10:12:08,287 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:31]
+2021-03-19 10:12:18,957 INFO: Включение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:259]
+2021-03-19 10:12:20,874 ERROR: Exception on /some_rout_for_agents_reports [GET] [in c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py:1891]
+Traceback (most recent call last):
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\repository\ROS\webFace\app\routes.py", line 277, in agents_report
+    importlib.import_module(path_for_plugin)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\importlib\__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 961, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 973, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'plugins/rocket_chat_plugin/main'
+2021-03-19 10:13:53,989 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:31]
+2021-03-19 10:13:59,948 INFO: Включение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:259]
+2021-03-19 10:15:10,394 INFO: Отключение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:262]
+2021-03-19 10:15:12,454 INFO: Включение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:259]
+2021-03-19 10:15:49,021 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:31]
+2021-03-19 10:15:53,524 INFO: Включение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:259]
+2021-03-19 10:16:26,968 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:31]
+2021-03-19 10:16:31,146 INFO: Включение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:259]
+2021-03-19 10:22:50,143 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:31]
+2021-03-19 10:25:21,302 INFO: Включение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:259]
+2021-03-19 10:45:10,961 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:32]
+2021-03-19 10:46:00,011 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:39]
+2021-03-19 10:46:00,020 INFO: База данных обновлена [in C:\repository\ROS\webFace\app\__init__.py:49]
+2021-03-19 10:48:38,785 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:32]
+2021-03-19 10:49:00,002 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:39]
+2021-03-19 11:16:52,114 ERROR: Ошибка обновления БД [in C:\repository\ROS\webFace\app\__init__.py:46]
+2021-03-19 12:40:43,975 INFO: Включение плагина testrail_plugin [in C:\repository\ROS\webFace\app\routes.py:259]
+2021-03-19 12:40:44,748 ERROR: Exception on /some_rout_for_agents_reports [GET] [in c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py:1891]
+Traceback (most recent call last):
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\repository\ROS\webFace\app\routes.py", line 278, in agents_report
+    importlib.import_module(path_for_plugin)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\importlib\__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "C:\repository\ROS\webFace\plugins\testrail_plugin\main.py", line 2, in <module>
+    import testrail_db.testrail_api
+ModuleNotFoundError: No module named 'testrail_db.testrail_api'
+2021-03-19 13:30:16,511 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:32]
+2021-03-19 13:30:23,421 INFO: Включение плагина testrail_plugin [in C:\repository\ROS\webFace\app\routes.py:259]
+2021-03-19 13:30:24,035 INFO: Отключение плагина testrail_plugin [in C:\repository\ROS\webFace\app\routes.py:262]
+2021-03-19 13:30:28,924 INFO: Включение плагина testrail_plugin [in C:\repository\ROS\webFace\app\routes.py:259]
+2021-03-19 16:59:22,774 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:32]
+2021-03-19 16:59:27,524 INFO: Включение плагина testrail_plugin [in C:\repository\ROS\webFace\app\routes.py:259]
+2021-03-19 16:59:28,919 ERROR: Exception on /some_rout_for_agents_reports [GET] [in c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py:1891]
+Traceback (most recent call last):
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\repository\ROS\webFace\app\routes.py", line 278, in agents_report
+    importlib.import_module(path_for_plugin)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\importlib\__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "C:\repository\ROS\webFace\plugins\testrail_plugin\main.py", line 38, in <module>
+    if TestrailPlugin.client.get_plan_id(plan_name):
+AttributeError: type object 'TestrailPlugin' has no attribute 'client'
+2021-03-19 17:00:48,907 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:32]
+2021-03-19 17:01:02,130 INFO: Включение плагина testrail_plugin [in C:\repository\ROS\webFace\app\routes.py:259]
+2021-03-19 17:01:03,429 ERROR: Exception on /some_rout_for_agents_reports [GET] [in c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py:1891]
+Traceback (most recent call last):
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\repository\ROS\webFace\app\routes.py", line 278, in agents_report
+    importlib.import_module(path_for_plugin)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\importlib\__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "C:\repository\ROS\webFace\plugins\testrail_plugin\main.py", line 38, in <module>
+    if Testrail.client.get_plan_id(plan_name):
+AttributeError: 'APIClient' object has no attribute 'get_plan_id'
+2021-03-19 17:48:32,962 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:32]
+2021-03-19 17:48:39,685 INFO: Включение плагина testrail_plugin [in C:\repository\ROS\webFace\app\routes.py:259]
+2021-03-20 10:49:00,017 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:39]
+2021-03-20 11:17:40,233 INFO: База данных обновлена [in C:\repository\ROS\webFace\app\__init__.py:49]
+2021-03-21 10:49:00,010 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:39]
+2021-03-21 10:49:00,011 ERROR: Ошибка обновления БД [in C:\repository\ROS\webFace\app\__init__.py:46]
+2021-03-22 09:38:46,109 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:32]
+2021-03-22 10:49:00,015 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:39]
+2021-03-22 10:49:00,024 INFO: База данных обновлена [in C:\repository\ROS\webFace\app\__init__.py:49]
+2021-03-22 11:50:13,715 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:32]
+2021-03-22 11:50:22,717 INFO: Включение плагина testrail_plugin [in C:\repository\ROS\webFace\app\routes.py:259]
+2021-03-22 11:50:24,881 ERROR: Exception on /some_rout_for_agents_reports [GET] [in c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py:1891]
+Traceback (most recent call last):
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\repository\ROS\webFace\app\routes.py", line 278, in agents_report
+    importlib.import_module(path_for_plugin)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\importlib\__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "C:\repository\ROS\webFace\plugins\testrail_plugin\main.py", line 2, in <module>
+    from libs.testrail_api import testrail_helper
+  File "C:\repository\ROS\webFace\libs\testrail_api\testrail_helper.py", line 23, in <module>
+    import crp as crp
+ModuleNotFoundError: No module named 'crp'
+2021-03-22 11:50:39,021 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:32]
+2021-03-22 11:50:48,748 INFO: Включение плагина testrail_plugin [in C:\repository\ROS\webFace\app\routes.py:259]
+2021-03-22 11:51:13,522 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:32]
+2021-03-22 11:51:19,394 INFO: Включение плагина testrail_plugin [in C:\repository\ROS\webFace\app\routes.py:259]
+2021-03-22 11:58:16,516 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:32]
+2021-03-22 11:58:22,234 INFO: Включение плагина testrail_plugin [in C:\repository\ROS\webFace\app\routes.py:259]
+2021-03-22 12:00:50,918 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:32]
+2021-03-22 12:00:55,227 INFO: Включение плагина testrail_plugin [in C:\repository\ROS\webFace\app\routes.py:259]
+2021-03-22 12:00:56,056 INFO: Открытие настроек плагина testrail_plugin [in C:\repository\ROS\webFace\app\routes.py:291]
+2021-03-22 12:55:11,610 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:32]
+2021-03-22 12:55:17,163 INFO: Включение плагина testrail_plugin [in C:\repository\ROS\webFace\app\routes.py:259]
+2021-03-22 12:56:37,099 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:32]
+2021-03-22 12:56:40,006 INFO: Включение плагина testrail_plugin [in C:\repository\ROS\webFace\app\routes.py:259]
+2021-03-22 14:42:37,999 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:32]
+2021-03-22 14:42:59,440 INFO: Запуск тестирования (в данный момент создание json в корне) [in C:\repository\ROS\webFace\app\routes.py:213]
+2021-03-22 14:54:35,290 INFO: Включение плагина testrail_plugin [in C:\repository\ROS\webFace\app\routes.py:259]
+2021-03-22 14:58:19,045 INFO: Запуск тестирования (в данный момент создание json в корне) [in C:\repository\ROS\webFace\app\routes.py:213]
+2021-03-22 15:00:26,959 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:32]
+2021-03-22 15:00:54,493 INFO: Включение плагина testrail_plugin [in C:\repository\ROS\webFace\app\routes.py:259]
+2021-03-23 09:39:28,716 INFO: Запуск тестирования (в данный момент создание json в корне) [in C:\repository\ROS\webFace\app\routes.py:213]
+2021-03-23 09:40:23,855 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:32]
+2021-03-23 09:40:38,184 INFO: Запуск тестирования (в данный момент создание json в корне) [in C:\repository\ROS\webFace\app\routes.py:213]
+2021-03-23 09:40:45,500 INFO: Включение плагина testrail_plugin [in C:\repository\ROS\webFace\app\routes.py:259]
+2021-03-23 09:43:17,664 INFO: Отключение плагина testrail_plugin [in C:\repository\ROS\webFace\app\routes.py:262]
+2021-03-23 09:43:18,342 INFO: Включение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:259]
+2021-03-23 09:49:40,012 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:32]
+2021-03-23 09:49:44,958 INFO: Включение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:259]
+2021-03-23 09:51:56,014 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:32]
+2021-03-23 09:52:04,105 INFO: Включение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:259]
+2021-03-23 10:22:25,411 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:32]
+2021-03-23 10:22:32,606 INFO: Включение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:259]
+2021-03-23 10:26:31,260 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:32]
+2021-03-23 10:26:35,959 INFO: Включение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:259]
+2021-03-23 10:26:36,714 ERROR: Exception on /some_rout_for_agents_reports [GET] [in c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py:1891]
+Traceback (most recent call last):
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\repository\ROS\webFace\app\routes.py", line 276, in agents_report
+    exec(open(path_for_plugin, 'rb').read())
+  File "<string>", line 32, in <module>
+  File "<string>", line 23, in send_information_to_rc
+NameError: name 'RocketChat' is not defined
+2021-03-23 10:27:31,653 INFO: Отключение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:262]
+2021-03-23 10:27:32,702 INFO: Включение плагина testrail_plugin [in C:\repository\ROS\webFace\app\routes.py:259]
+2021-03-23 10:27:33,574 ERROR: Exception on /some_rout_for_agents_reports [GET] [in c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py:1891]
+Traceback (most recent call last):
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\repository\ROS\webFace\app\routes.py", line 276, in agents_report
+    exec(open(path_for_plugin, 'rb').read())
+  File "<string>", line 37, in <module>
+  File "<string>", line 20, in __init__
+NameError: name 'testrail_api' is not defined
+2021-03-23 10:34:30,034 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:32]
+2021-03-23 10:34:38,536 INFO: Включение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:259]
+2021-03-23 10:49:00,013 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:39]
+2021-03-23 10:49:00,017 INFO: База данных обновлена [in C:\repository\ROS\webFace\app\__init__.py:49]
+2021-03-23 10:55:09,088 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:32]
+2021-03-23 10:55:13,871 INFO: Включение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:259]
+2021-03-23 10:55:14,602 ERROR: Exception on /some_rout_for_agents_reports [GET] [in c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py:1891]
+Traceback (most recent call last):
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\repository\ROS\webFace\app\routes.py", line 279, in agents_report
+    eval(path_for_plugin+'.main()')
+  File "<string>", line 1, in <module>
+NameError: name 'plugins' is not defined
+2021-03-23 10:56:31,411 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:32]
+2021-03-23 10:56:36,786 INFO: Включение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:259]
+2021-03-23 10:57:43,462 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:32]
+2021-03-23 10:57:52,517 INFO: Включение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:259]
+2021-03-23 10:58:56,738 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:32]
+2021-03-23 10:59:01,366 INFO: Включение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-03-23 11:51:21,389 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:33]
+2021-03-23 11:51:45,887 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:33]
+2021-03-23 11:52:00,008 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:40]
+2021-03-23 11:52:00,009 INFO: База данных обновлена [in C:\repository\ROS\webFace\app\__init__.py:50]
+2021-03-24 11:52:00,012 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:40]
+2021-03-24 11:52:00,013 INFO: База данных обновлена [in C:\repository\ROS\webFace\app\__init__.py:50]
+2021-03-26 10:43:23,598 INFO: Включение плагина testrail_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-03-26 11:52:00,011 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:40]
+2021-03-26 11:52:00,012 INFO: База данных обновлена [in C:\repository\ROS\webFace\app\__init__.py:50]
+2021-03-26 14:07:50,757 INFO: Открытие настроек плагина testrail_plugin [in C:\repository\ROS\webFace\app\routes.py:294]
+2021-03-26 14:07:54,295 INFO: Открытие настроек плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:294]
+2021-03-26 14:22:17,495 INFO: Открытие настроек плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:294]
+2021-03-26 16:42:58,358 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:33]
+2021-03-26 16:43:11,325 INFO: Открытие настроек плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:294]
+2021-03-26 16:43:53,361 INFO: Включение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-03-26 16:43:54,424 INFO: Отключение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:263]
+2021-03-26 16:43:55,367 INFO: Включение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-03-26 16:43:55,904 INFO: Отключение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:263]
+2021-03-26 16:43:56,520 INFO: Включение плагина testrail_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-03-26 16:43:56,943 INFO: Отключение плагина testrail_plugin [in C:\repository\ROS\webFace\app\routes.py:263]
+2021-03-26 16:43:57,912 INFO: Включение плагина testrail_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-03-26 16:43:58,456 INFO: Отключение плагина testrail_plugin [in C:\repository\ROS\webFace\app\routes.py:263]
+2021-03-26 16:43:58,951 INFO: Включение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-03-26 16:43:59,471 INFO: Отключение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:263]
+2021-03-26 16:44:00,175 INFO: Включение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-03-26 16:44:00,776 INFO: Отключение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:263]
+2021-03-26 16:47:26,380 INFO: Включение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-03-26 16:47:26,916 INFO: Включение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-03-26 16:47:27,451 INFO: Включение плагина testrail_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-03-26 16:47:27,860 INFO: Отключение плагина testrail_plugin [in C:\repository\ROS\webFace\app\routes.py:263]
+2021-03-26 16:47:28,355 INFO: Отключение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:263]
+2021-03-26 16:47:28,867 INFO: Включение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-03-26 16:47:29,404 INFO: Отключение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:263]
+2021-03-26 16:47:29,819 INFO: Включение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-03-26 16:47:30,323 INFO: Отключение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:263]
+2021-03-26 16:47:31,339 INFO: Отключение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:263]
+2021-03-26 16:55:35,272 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:33]
+2021-03-26 16:55:39,989 INFO: Включение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-03-26 16:55:40,536 INFO: Отключение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:263]
+2021-03-26 16:55:41,736 INFO: Включение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-03-26 16:55:59,866 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:33]
+2021-03-26 16:56:04,953 INFO: Включение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-03-26 16:56:05,359 INFO: Отключение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:263]
+2021-03-26 16:57:15,197 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:33]
+2021-03-26 16:57:19,583 INFO: Включение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-03-26 16:57:22,693 INFO: Отключение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:263]
+2021-03-26 16:57:53,010 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:33]
+2021-03-26 16:57:57,546 INFO: Включение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-03-26 16:57:58,072 INFO: Отключение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:263]
+2021-03-26 16:58:01,386 INFO: Включение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-03-26 17:02:38,379 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:33]
+2021-03-26 17:02:47,226 INFO: Включение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-03-26 17:02:47,848 INFO: Отключение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:263]
+2021-03-26 17:02:48,936 INFO: Включение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-03-26 17:02:49,587 INFO: Включение плагина testrail_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-03-26 17:02:50,120 INFO: Отключение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:263]
+2021-03-26 17:02:50,632 INFO: Отключение плагина testrail_plugin [in C:\repository\ROS\webFace\app\routes.py:263]
+2021-03-26 17:02:51,336 INFO: Включение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-03-26 17:03:02,758 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:33]
+2021-03-26 17:03:45,411 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:33]
+2021-03-26 17:12:21,069 INFO: Включение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-03-26 17:12:21,343 INFO: Отключение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:263]
+2021-03-26 17:12:22,079 INFO: Включение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-03-26 17:12:22,671 INFO: Отключение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:263]
+2021-03-26 17:12:24,527 INFO: Включение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-03-26 17:12:25,287 INFO: Отключение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:263]
+2021-03-26 17:12:26,623 INFO: Включение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-03-26 17:12:27,327 INFO: Отключение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:263]
+2021-03-26 17:12:28,543 INFO: Включение плагина testrail_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-03-26 17:12:29,423 INFO: Отключение плагина testrail_plugin [in C:\repository\ROS\webFace\app\routes.py:263]
+2021-03-26 17:21:16,098 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:33]
+2021-03-26 17:21:20,420 INFO: Включение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-03-26 17:21:20,929 INFO: Отключение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:263]
+2021-03-26 17:21:21,777 INFO: Включение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-03-26 17:21:25,308 INFO: Включение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-03-26 17:21:26,226 INFO: Отключение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:263]
+2021-03-26 17:21:54,543 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:33]
+2021-03-26 17:22:10,568 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:33]
+2021-03-27 11:52:00,011 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:40]
+2021-03-27 11:52:00,012 INFO: База данных обновлена [in C:\repository\ROS\webFace\app\__init__.py:48]
+2021-03-29 11:52:00,032 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:40]
+2021-03-29 11:52:00,044 INFO: База данных обновлена [in C:\repository\ROS\webFace\app\__init__.py:48]
+2021-03-31 11:32:55,514 INFO: Открытие настроек плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:294]
+2021-03-31 11:33:09,227 INFO: Открытие настроек плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:294]
+2021-03-31 11:52:00,104 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:40]
+2021-03-31 11:52:00,127 INFO: База данных обновлена [in C:\repository\ROS\webFace\app\__init__.py:48]
+2021-04-01 15:29:53,234 INFO: Запуск тестирования (в данный момент создание json в корне) [in C:\repository\ROS\webFace\app\routes.py:214]
+2021-04-01 15:30:23,196 INFO: Включение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-04-01 15:30:25,086 ERROR: Exception on /some_rout_for_agents_reports [GET] [in c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py:1891]
+Traceback (most recent call last):
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\repository\ROS\webFace\app\routes.py", line 281, in agents_report
+    eval(path_for_plugin+'.main()')
+  File "<string>", line 1, in <module>
+  File "C:\repository\ROS\webFace\plugins\jira_plugin\main.py", line 33, in main
+    Jira_object = JiraPlugin()
+  File "C:\repository\ROS\webFace\plugins\jira_plugin\main.py", line 17, in __init__
+    self.client = JIRA(options=self.jira_options, basic_auth=(self.user, self.password))
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\jira\client.py", line 424, in __init__
+    if self._options['server'].endswith('/'):
+AttributeError: 'NoneType' object has no attribute 'endswith'
+2021-04-01 15:31:33,019 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:33]
+2021-04-01 15:31:43,463 INFO: Включение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-04-01 15:31:44,318 ERROR: Exception on /some_rout_for_agents_reports [GET] [in c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py:1891]
+Traceback (most recent call last):
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\repository\ROS\webFace\app\routes.py", line 281, in agents_report
+    eval(path_for_plugin+'.main()')
+  File "<string>", line 1, in <module>
+  File "C:\repository\ROS\webFace\plugins\jira_plugin\main.py", line 33, in main
+    Jira_object = JiraPlugin()
+  File "C:\repository\ROS\webFace\plugins\jira_plugin\main.py", line 17, in __init__
+    self.client = JIRA(options=self.jira_options, basic_auth=(self.user, self.password))
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\jira\client.py", line 424, in __init__
+    if self._options['server'].endswith('/'):
+AttributeError: 'NoneType' object has no attribute 'endswith'
+2021-04-01 15:34:27,241 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:33]
+2021-04-01 15:34:33,836 INFO: Включение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-04-01 15:34:35,090 ERROR: Exception on /some_rout_for_agents_reports [GET] [in c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py:1891]
+Traceback (most recent call last):
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\repository\ROS\webFace\app\routes.py", line 281, in agents_report
+    eval(path_for_plugin+'.main()')
+  File "<string>", line 1, in <module>
+  File "C:\repository\ROS\webFace\plugins\jira_plugin\main.py", line 34, in main
+    Jira_object = JiraPlugin()
+  File "C:\repository\ROS\webFace\plugins\jira_plugin\main.py", line 18, in __init__
+    self.client = JIRA(options=self.jira_options, basic_auth=(self.user, self.password))
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\jira\client.py", line 424, in __init__
+    if self._options['server'].endswith('/'):
+AttributeError: 'NoneType' object has no attribute 'endswith'
+2021-04-01 15:35:02,140 INFO: Открытие настроек плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:294]
+2021-04-01 15:37:18,741 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:33]
+2021-04-01 15:37:24,884 INFO: Включение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-04-01 15:38:39,301 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:33]
+2021-04-01 15:38:44,007 INFO: Включение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-04-02 10:08:42,738 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:33]
+2021-04-02 10:08:52,522 INFO: Открытие настроек плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:294]
+2021-04-02 10:08:55,096 INFO: Включение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-04-02 10:08:56,415 INFO: Включение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-04-02 10:08:56,863 INFO: Включение плагина testrail_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-04-02 11:52:00,001 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:40]
+2021-04-02 11:52:00,002 INFO: База данных обновлена [in C:\repository\ROS\webFace\app\__init__.py:48]
+2021-04-02 13:28:46,706 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:33]
+2021-04-02 13:28:49,974 INFO: Включение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-04-02 13:29:04,465 INFO: Запуск тестирования (в данный момент создание json в корне) [in C:\repository\ROS\webFace\app\routes.py:214]
+2021-04-02 14:48:07,410 INFO: Отключение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:263]
+2021-04-02 14:48:38,060 INFO: Включение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-04-02 14:48:47,743 INFO: Запуск тестирования (в данный момент создание json в корне) [in C:\repository\ROS\webFace\app\routes.py:214]
+2021-04-02 14:49:35,270 INFO: Отключение плагина jira_plugin [in C:\repository\ROS\webFace\app\routes.py:263]
+2021-04-02 14:49:36,589 INFO: Включение плагина testrail_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-04-04 11:52:00,663 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:40]
+2021-04-04 11:52:00,665 INFO: База данных обновлена [in C:\repository\ROS\webFace\app\__init__.py:48]
+2021-04-05 11:52:00,000 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:40]
+2021-04-05 11:52:00,002 INFO: База данных обновлена [in C:\repository\ROS\webFace\app\__init__.py:48]
+2021-04-06 11:52:00,001 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:40]
+2021-04-06 11:52:00,002 INFO: База данных обновлена [in C:\repository\ROS\webFace\app\__init__.py:48]
+2021-04-07 11:52:00,678 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:40]
+2021-04-07 11:52:00,886 INFO: База данных обновлена [in C:\repository\ROS\webFace\app\__init__.py:48]
+2021-04-14 11:52:00,128 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:40]
+2021-04-14 11:52:00,554 INFO: База данных обновлена [in C:\repository\ROS\webFace\app\__init__.py:48]
+2021-04-15 11:52:00,022 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:40]
+2021-04-15 11:52:00,023 INFO: База данных обновлена [in C:\repository\ROS\webFace\app\__init__.py:48]
+2021-04-15 18:23:25,698 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:33]
+2021-04-16 11:52:00,013 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:40]
+2021-04-16 11:52:00,014 INFO: База данных обновлена [in C:\repository\ROS\webFace\app\__init__.py:48]
+2021-04-17 11:52:00,013 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:40]
+2021-04-17 11:52:00,040 INFO: База данных обновлена [in C:\repository\ROS\webFace\app\__init__.py:48]
+2021-04-19 11:52:00,015 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:40]
+2021-04-19 11:52:00,016 INFO: База данных обновлена [in C:\repository\ROS\webFace\app\__init__.py:48]
+2021-04-20 11:52:00,758 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:40]
+2021-04-20 11:52:00,759 INFO: База данных обновлена [in C:\repository\ROS\webFace\app\__init__.py:48]
+2021-04-21 11:52:00,000 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:40]
+2021-04-21 11:52:00,001 INFO: База данных обновлена [in C:\repository\ROS\webFace\app\__init__.py:48]
+2021-04-21 15:24:46,130 INFO: Logout [in C:\repository\ROS\webFace\app\routes.py:144]
+2021-04-21 15:24:52,234 INFO: Вход под пользователем admin [in C:\repository\ROS\webFace\app\routes.py:89]
+2021-04-22 13:37:35,405 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:33]
+2021-04-22 13:37:44,200 INFO: Включение плагина email_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-04-22 13:37:45,011 INFO: Открытие настроек плагина email_plugin [in C:\repository\ROS\webFace\app\routes.py:294]
+2021-04-22 13:38:07,095 INFO: Выполняется изменение настроек плагина email_plugin [in C:\repository\ROS\webFace\app\routes.py:310]
+2021-04-22 13:38:09,259 INFO: Открытие настроек плагина email_plugin [in C:\repository\ROS\webFace\app\routes.py:294]
+2021-04-22 13:38:13,118 ERROR: Exception on /some_rout_for_agents_reports [GET] [in c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py:1891]
+Traceback (most recent call last):
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\repository\ROS\webFace\app\routes.py", line 281, in agents_report
+    eval(path_for_plugin+'.main()')
+  File "<string>", line 1, in <module>
+AttributeError: module 'plugins' has no attribute 'email_plugin'
+2021-04-22 13:38:41,169 ERROR: Exception on /some_rout_for_agents_reports [GET] [in c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py:1891]
+Traceback (most recent call last):
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\repository\ROS\webFace\app\routes.py", line 281, in agents_report
+    eval(path_for_plugin+'.main()')
+  File "<string>", line 1, in <module>
+AttributeError: module 'plugins' has no attribute 'email_plugin'
+2021-04-22 13:38:48,735 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:33]
+2021-04-22 13:39:17,413 INFO: Открытие настроек плагина email_plugin [in C:\repository\ROS\webFace\app\routes.py:294]
+2021-04-22 13:39:21,328 INFO: Включение плагина email_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-04-22 13:39:23,715 ERROR: Exception on /some_rout_for_agents_reports [GET] [in c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py:1891]
+Traceback (most recent call last):
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\repository\ROS\webFace\app\routes.py", line 281, in agents_report
+    eval(path_for_plugin+'.main()')
+  File "<string>", line 1, in <module>
+AttributeError: module 'plugins' has no attribute 'email_plugin'
+2021-04-22 13:40:45,686 ERROR: Exception on /some_rout_for_agents_reports [GET] [in c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py:1891]
+Traceback (most recent call last):
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\repository\ROS\webFace\app\routes.py", line 281, in agents_report
+    eval(path_for_plugin+'.main()')
+  File "<string>", line 1, in <module>
+AttributeError: module 'plugins' has no attribute 'email_plugin'
+2021-04-22 13:40:47,695 INFO: Отключение плагина email_plugin [in C:\repository\ROS\webFace\app\routes.py:263]
+2021-04-22 13:40:49,743 INFO: Открытие настроек плагина email_plugin [in C:\repository\ROS\webFace\app\routes.py:294]
+2021-04-22 13:40:53,897 INFO: Выполняется сброс настроек плагина email_plugin [in C:\repository\ROS\webFace\app\routes.py:328]
+2021-04-22 13:40:53,899 INFO: Загрузка настроек плагина email_plugin выполнена успешно [in C:\repository\ROS\webFace\app\routes.py:333]
+2021-04-22 13:40:57,159 INFO: Открытие настроек плагина email_plugin [in C:\repository\ROS\webFace\app\routes.py:294]
+2021-04-22 13:41:09,936 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:33]
+2021-04-22 13:41:44,768 INFO: Открытие настроек плагина email_plugin [in C:\repository\ROS\webFace\app\routes.py:294]
+2021-04-22 13:41:47,524 INFO: Включение плагина email_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-04-22 13:41:49,644 INFO: Отключение плагина email_plugin [in C:\repository\ROS\webFace\app\routes.py:263]
+2021-04-22 13:41:55,736 INFO: Включение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-04-22 13:41:57,226 INFO: Открытие настроек плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:294]
+2021-04-22 13:42:05,451 ERROR: Exception on /some_rout_for_agents_reports [GET] [in c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py:1891]
+Traceback (most recent call last):
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\repository\ROS\webFace\app\routes.py", line 281, in agents_report
+    eval(path_for_plugin+'.main()')
+  File "<string>", line 1, in <module>
+AttributeError: module 'plugins' has no attribute 'rocket_chat_plugin'
+2021-04-22 13:42:50,525 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:33]
+2021-04-22 13:43:02,401 INFO: Включение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-04-22 13:43:20,889 INFO: Отключение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:263]
+2021-04-22 13:43:21,521 INFO: Включение плагина email_plugin [in C:\repository\ROS\webFace\app\routes.py:260]
+2021-04-23 11:52:00,010 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:40]
+2021-04-23 11:52:00,011 INFO: База данных обновлена [in C:\repository\ROS\webFace\app\__init__.py:48]
+2021-04-23 12:00:49,364 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:33]
+2021-04-23 12:01:04,744 INFO: Включение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:261]
+2021-04-23 12:01:06,787 ERROR: Exception on /some_rout_for_agents_reports [GET] [in c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py:1891]
+Traceback (most recent call last):
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\repository\ROS\webFace\app\routes.py", line 282, in agents_report
+    eval(path_for_plugin+'.main()')
+  File "<string>", line 1, in <module>
+  File "C:\repository\ROS\webFace\plugins\rocket_chat_plugin\main.py", line 33, in main
+    rcp.send_information_to_rc()
+  File "C:\repository\ROS\webFace\plugins\rocket_chat_plugin\main.py", line 25, in send_information_to_rc
+    rocket_chat_channel = '@' + current_user.email.split('@')[0]
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\werkzeug\local.py", line 347, in __getattr__
+    return getattr(self._get_current_object(), name)
+AttributeError: 'AnonymousUserMixin' object has no attribute 'email'
+2021-04-23 12:01:06,897 ERROR: Exception on /some_route_for_test_fast_api [GET] [in c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py:1891]
+Traceback (most recent call last):
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2097, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2021-04-23 12:01:29,994 ERROR: Exception on /some_rout_for_agents_reports [GET] [in c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py:1891]
+Traceback (most recent call last):
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\repository\ROS\webFace\app\routes.py", line 282, in agents_report
+    eval(path_for_plugin+'.main()')
+  File "<string>", line 1, in <module>
+  File "C:\repository\ROS\webFace\plugins\rocket_chat_plugin\main.py", line 33, in main
+    rcp.send_information_to_rc()
+  File "C:\repository\ROS\webFace\plugins\rocket_chat_plugin\main.py", line 25, in send_information_to_rc
+    rocket_chat_channel = '@' + current_user.email.split('@')[0]
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\werkzeug\local.py", line 347, in __getattr__
+    return getattr(self._get_current_object(), name)
+AttributeError: 'AnonymousUserMixin' object has no attribute 'email'
+2021-04-23 12:01:29,998 ERROR: Exception on /some_route_for_test_fast_api [GET] [in c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py:1891]
+Traceback (most recent call last):
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2097, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2021-04-23 12:01:51,741 ERROR: Exception on /some_rout_for_agents_reports [GET] [in c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py:1891]
+Traceback (most recent call last):
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\repository\ROS\webFace\app\routes.py", line 282, in agents_report
+    eval(path_for_plugin+'.main()')
+  File "<string>", line 1, in <module>
+  File "C:\repository\ROS\webFace\plugins\rocket_chat_plugin\main.py", line 33, in main
+    rcp.send_information_to_rc()
+  File "C:\repository\ROS\webFace\plugins\rocket_chat_plugin\main.py", line 25, in send_information_to_rc
+    rocket_chat_channel = '@' + current_user.email.split('@')[0]
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\werkzeug\local.py", line 347, in __getattr__
+    return getattr(self._get_current_object(), name)
+AttributeError: 'AnonymousUserMixin' object has no attribute 'email'
+2021-04-23 12:02:19,107 INFO: Startup of webFace [in C:\repository\ROS\webFace\app\__init__.py:33]
+2021-04-23 12:03:00,301 INFO: Включение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:261]
+2021-04-23 12:03:06,128 ERROR: Exception on /some_rout_for_agents_reports [GET] [in c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py:1891]
+Traceback (most recent call last):
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\repository\ROS\webFace\app\routes.py", line 282, in agents_report
+    eval(path_for_plugin+'.main()')
+  File "<string>", line 1, in <module>
+  File "C:\repository\ROS\webFace\plugins\rocket_chat_plugin\main.py", line 33, in main
+    rcp.send_information_to_rc()
+  File "C:\repository\ROS\webFace\plugins\rocket_chat_plugin\main.py", line 25, in send_information_to_rc
+    rocket_chat_channel = '@' + current_user.email.split('@')[0]
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\werkzeug\local.py", line 347, in __getattr__
+    return getattr(self._get_current_object(), name)
+AttributeError: 'AnonymousUserMixin' object has no attribute 'email'
+2021-04-23 12:47:10,763 ERROR: Exception on /on_off_plugin [POST] [in c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py:1891]
+Traceback (most recent call last):
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\repository\ROS\webFace\app\routes.py", line 263, in on_off_plugin
+    active_plugins.remove(plugin_name)
+ValueError: list.remove(x): x not in list
+2021-04-23 12:47:25,108 INFO: Включение плагина email_plugin [in C:\repository\ROS\webFace\app\routes.py:261]
+2021-04-23 12:47:34,231 INFO: Открытие настроек плагина email_plugin [in C:\repository\ROS\webFace\app\routes.py:299]
+2021-04-23 12:47:42,915 INFO: Выполняется изменение настроек плагина email_plugin [in C:\repository\ROS\webFace\app\routes.py:315]
+2021-04-23 12:48:26,564 ERROR: Exception on /some_rout_for_agents_reports [GET] [in c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py:1891]
+Traceback (most recent call last):
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\repository\ROS\webFace\app\routes.py", line 282, in agents_report
+    eval(path_for_plugin+'.main()')
+  File "<string>", line 1, in <module>
+  File "C:\repository\ROS\webFace\plugins\rocket_chat_plugin\main.py", line 33, in main
+    rcp.send_information_to_rc()
+  File "C:\repository\ROS\webFace\plugins\rocket_chat_plugin\main.py", line 25, in send_information_to_rc
+    rocket_chat_channel = '@' + current_user.email.split('@')[0]
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\werkzeug\local.py", line 347, in __getattr__
+    return getattr(self._get_current_object(), name)
+AttributeError: 'AnonymousUserMixin' object has no attribute 'email'
+2021-04-23 12:48:26,567 ERROR: Exception on /some_route_for_test_fast_api [GET] [in c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py:1891]
+Traceback (most recent call last):
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2097, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2021-04-23 12:49:09,164 ERROR: Exception on /some_rout_for_agents_reports [GET] [in c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py:1891]
+Traceback (most recent call last):
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\repository\ROS\webFace\app\routes.py", line 282, in agents_report
+    eval(path_for_plugin+'.main()')
+  File "<string>", line 1, in <module>
+  File "C:\repository\ROS\webFace\plugins\rocket_chat_plugin\main.py", line 33, in main
+    rcp.send_information_to_rc()
+  File "C:\repository\ROS\webFace\plugins\rocket_chat_plugin\main.py", line 25, in send_information_to_rc
+    rocket_chat_channel = '@' + current_user.email.split('@')[0]
+  File "c:\users\dpolyanskiy\appdata\local\programs\python\python38\lib\site-packages\werkzeug\local.py", line 347, in __getattr__
+    return getattr(self._get_current_object(), name)
+AttributeError: 'AnonymousUserMixin' object has no attribute 'email'
+2021-04-23 12:52:36,675 INFO: Отключение плагина rocket_chat_plugin [in C:\repository\ROS\webFace\app\routes.py:264]
+2021-04-23 12:52:41,372 INFO: Отключение плагина email_plugin [in C:\repository\ROS\webFace\app\routes.py:264]
+2021-04-23 12:53:06,849 INFO: Открытие настроек плагина email_plugin [in C:\repository\ROS\webFace\app\routes.py:299]
+2021-04-23 12:53:13,784 INFO: Включение плагина email_plugin [in C:\repository\ROS\webFace\app\routes.py:261]
+2021-04-24 11:52:00,008 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:40]
+2021-04-24 11:52:00,009 INFO: База данных обновлена [in C:\repository\ROS\webFace\app\__init__.py:48]
+2021-04-25 11:52:00,366 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:40]
+2021-04-25 11:52:00,367 INFO: База данных обновлена [in C:\repository\ROS\webFace\app\__init__.py:48]
+2021-04-26 11:52:00,890 INFO: Старт обновления Базы данных из Testrail [in C:\repository\ROS\webFace\app\__init__.py:40]
+2021-04-26 11:52:01,413 INFO: База данных обновлена [in C:\repository\ROS\webFace\app\__init__.py:48]
+2021-04-28 13:27:10,006 INFO: Startup of webFace [in /home/e3erli/repo_git/web_interface/app/__init__.py:33]
+2021-04-28 13:36:30,386 INFO: Startup of web interface [in /home/e3erli/repo_git/web_interface/app/__init__.py:33]
+2021-04-28 13:37:06,829 INFO: Startup of web interface [in /home/e3erli/repo_git/web_interface/app/__init__.py:33]
+2021-04-28 13:37:27,840 INFO: Р’С…РѕРґ РїРѕРґ РїРѕР»СЊР·РѕРІР°С‚РµР»РµРј admin [in /home/e3erli/repo_git/web_interface/app/routes.py:90]
+2021-04-28 13:37:55,386 INFO: Logout [in /home/e3erli/repo_git/web_interface/app/routes.py:145]
+2021-04-28 13:37:56,585 INFO: Login as guest [in /home/e3erli/repo_git/web_interface/app/routes.py:101]
+2021-04-28 13:37:57,918 INFO: Logout [in /home/e3erli/repo_git/web_interface/app/routes.py:145]
+2021-04-28 13:38:37,513 INFO: Startup of web interface [in /home/e3erli/repo_git/web_interface/app/__init__.py:33]
+2021-04-28 13:38:44,168 INFO: Login as guest [in /home/e3erli/repo_git/web_interface/app/routes.py:101]
+2021-04-28 13:38:46,388 INFO: РР·РјРµРЅРµРЅРµРёРµ РІ РїСѓС‚Рё Рє С„Р°Р№Р»Сѓ main.py [in /home/e3erli/repo_git/web_interface/app/routes.py:67]
+2021-04-28 13:38:48,099 INFO: РР·РјРµРЅРµРЅРµРёРµ РІ РїСѓС‚Рё Рє С„Р°Р№Р»Сѓ main.py РЅРµ РїСЂРёРЅСЏС‚С‹ [in /home/e3erli/repo_git/web_interface/app/routes.py:72]
+2021-04-28 13:39:07,523 INFO: Startup of web interface [in /home/e3erli/repo_git/web_interface/app/__init__.py:33]
+2021-04-28 13:39:22,661 INFO: Startup of web interface [in /home/e3erli/repo_git/web_interface/app/__init__.py:33]
+2021-04-28 13:40:26,492 INFO: Startup of web interface [in /home/e3erli/repo_git/web_interface/app/__init__.py:33]
+2021-04-28 13:41:26,423 INFO: Startup of web interface [in /home/e3erli/repo_git/web_interface/app/__init__.py:33]
+2021-04-28 13:41:34,380 INFO: Logout [in /home/e3erli/repo_git/web_interface/app/routes.py:145]
+2021-04-28 13:41:37,946 INFO: Р’С…РѕРґ РїРѕРґ РїРѕР»СЊР·РѕРІР°С‚РµР»РµРј admin [in /home/e3erli/repo_git/web_interface/app/routes.py:90]
+2021-04-28 13:47:16,044 INFO: Startup of web interface [in /home/e3erli/repo_git/web_interface/app/__init__.py:33]

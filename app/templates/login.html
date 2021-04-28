@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block content%}
+
+<nav class="navbar navbar-default bg-light">
+  <div class="container-fluid">
+    <ul class="nav navbar-nav">
+      <li><a href="{{ url_for('login_as_guest') }}">Гостевой режим</a></li>
+    </ul>
+  </div>
+</nav>
+
+<div class="container">
+    <form action="" method="post" novalidate>
+    {{ form.hidden_tag() }}
+    <h1>Представтесь, пожалуйста</h1>
+    <p>
+        {{ form.username.label }} <br>
+        {{ form.username(size=32) }}<br>
+        {% for error in form.username.errors %}
+        <span style="color: red;">[{{error}}]</span>
+        {% endfor %}
+    </p>
+    <p>
+        {{ form.password.label }} <br>
+        {{ form.password(size=32) }}<br>
+        {% for error in form.password.errors %}
+        <span style="color: red;">[{{error}}]</span>
+        {% endfor %}
+    </p>
+    <p>{{ form.remember_me() }} {{ form.remember_me.label }}</p>
+    <p>{{ form.submit(**{"class":"btn btn-primary"}) }}</p>
+</form>
+</div>
+
+{% endblock %}
